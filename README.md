@@ -16,6 +16,8 @@ It registers users with nicknames just like in IRCs.
 
 - Different users are assigned different colors for improving readability.
 
+- Logs of connected users and their socket information at server.
+
 
 
 A small implementation of ruby sockets and multithreading and trasfering of data over network.
